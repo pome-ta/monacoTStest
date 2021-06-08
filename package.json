@@ -1,0 +1,7 @@
+{
+  "name": "monacoTStest",
+  "version": "0.0.1",
+  "dependencies": {
+    "monaco-editor": "0.24.0"
+  }
+}
